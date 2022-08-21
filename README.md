@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gkhanus
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning sap cx, jira software
+- 🌱 I’m currently learning dessign-patterns
 - 💞️ I’m looking to collaborate on ...👀
 - 📫 How to reach me ...👀
 
