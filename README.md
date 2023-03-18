@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gkhanus
-- 👀 I’m interested in open source
-- 🌱 I’m currently learning dessign-patterns
-- 💞️ I’m looking to collaborate on ...👀
-- 📫 How to reach me ...👀
+
+Medium profile : https://medium.com/@gokhnozt
 
 <!---
 gkhanus/gkhanus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
