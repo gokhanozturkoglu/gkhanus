@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gkhanus
 
-Medium profile : https://medium.com/@gokhanozturkoglu
+Medium profile : https://medium.com/@gokhnozt
 
 <!---
 gkhanus/gkhanus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
