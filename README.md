@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gkhanus
+- 👋 Hi, I’m @gokhanozturkoglu
 
 Medium profile : https://medium.com/@gokhnozt
 
